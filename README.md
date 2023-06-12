@@ -1,7 +1,7 @@
 <h1>Hi, I'm Avery! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-In progress...
+- performed a security audit 
     
 <h2>📜 Certifications:</h2>
 
