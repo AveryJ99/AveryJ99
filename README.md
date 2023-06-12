@@ -3,8 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 In progress...
     
-<h2> Informative YouTube projects:</h2>
-In progress...
+<h2>📜 Certifications:</h2>
+
+-   [Test Out PC Pro](https://certification.testout.com/verifycert/6-2C6-V38UU6)
 
 <h2> 🤳 Connect with me:</h2>
 
